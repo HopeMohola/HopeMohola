@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HopeMohola
-- 👀 I’m interested in Data Sience and exploring solutions for global challenges
+- 👀 I’m interested in Data Science: Finding patterns in chaos and making data do the heavy lifting.
 - 🌱 I’m currently learning How to Preapre Data, SQL, Data Visualisation, Python and Regression.
 - 💞️ I’m looking to collaborate on Machine Learning Models: Turning tricky problems into smarter solutions—like predicting trends, classifying data, or optimizing processes (without too much trial and error, hopefully!).
 - 📫 How to reach me Email: motshabimohola@gmail.com
