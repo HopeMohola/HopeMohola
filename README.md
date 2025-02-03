@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @HopeMohola  
 
-![GitHub Banner](https://github.com/HopeMohola/Data-Science-Portfolio/blob/main/DALL%C2%B7E%202025-02-03%2018.25.40%20-%20A%20stylish%20GitHub%20profile%20banner%20for%20Mohola%20Motshabi%20Hope%2C%20a%20Data%20Scientist%2C%20with%20a%20girly%20yet%20geeky%20aesthetic.%20The%20design%20features%20dark%20mode-inspired%20p.webp)  
+![GitHub Banner](https://github.com/HopeMohola/Data-Science-Portfolio/blob/main/DALL%C2%B7E%202025-02-03%2018.44.46%20-%20A%20stylish%20GitHub%20portfolio%20banner%20for%20a%20data%20scientist%20named%20Motshabi%20Mohola.%20The%20banner%20should%20have%20a%20girly%20aesthetic%20with%20pastel%20colors%20like%20soft%20pi.webp)  
 
 👀 **I’m interested in Data Science**: Finding patterns in chaos and making data do the heavy lifting.  
 🌱 **I’m currently learning**: How to Prepare Data, SQL, Data Visualization, Python, and Regression.  
