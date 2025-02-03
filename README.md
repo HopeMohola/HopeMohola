@@ -17,8 +17,9 @@
 ## 🔥 Pinned Repositories  
 
 [![Fraud Detection(SQL)](https://github.com/HopeMohola/fraud-detection)  
+[![Fraud Detection(PowerBI)](https://github.com/HopeMohola/Fraud-Detection-Visualization-PowerBI-/tree/main) 
 [![Data Analysis(SQL)](https://github.com/HopeMohola/-Maji-Ndogo-Data-Analysis-and-Governance-SQL-)  
-[![Pinned Project 2](https://github-readme-stats.vercel.app/api/pin/?username=HopeMohola&repo=Project-2)](https://github.com/HopeMohola/Project-2)  
+ 
 [![Pinned Project 2](https://github-readme-stats.vercel.app/api/pin/?username=HopeMohola&repo=Project-2)](https://github.com/HopeMohola/Project-2)  
 [![Pinned Project 2](https://github-readme-stats.vercel.app/api/pin/?username=HopeMohola&repo=Project-2)](https://github.com/HopeMohola/Project-2)  
 [![Pinned Project 2](https://github-readme-stats.vercel.app/api/pin/?username=HopeMohola&repo=Project-2)](https://github.com/HopeMohola/Project-2)  
