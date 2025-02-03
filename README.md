@@ -16,7 +16,7 @@
 
 ## 🔥 Pinned Repositories  
 
-[![Pinned Project 1](https://github-readme-stats.vercel.app/api/pin/?username=HopeMohola&repo=Project-1)](https://github.com/HopeMohola/Project-1)  
+[![Pinned Project 1](https://github.com/HopeMohola/fraud-detection)  
 [![Pinned Project 2](https://github-readme-stats.vercel.app/api/pin/?username=HopeMohola&repo=Project-2)](https://github.com/HopeMohola/Project-2)  
 
 ---
