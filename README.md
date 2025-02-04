@@ -19,6 +19,7 @@
 [![Fraud Detection(SQL)](https://github.com/HopeMohola/fraud-detection)  
 [![Fraud Detection(PowerBI)](https://github.com/HopeMohola/Fraud-Detection-Visualization-PowerBI-/tree/main) 
 [![Data Analysis(SQL)](https://github.com/HopeMohola/-Maji-Ndogo-Data-Analysis-and-Governance-SQL-)  
+[![Sentiment and Emotion Analysis(Classification)](https://github.com/HopeMohola/Sentiment-Analysis)
  
 ---
 
