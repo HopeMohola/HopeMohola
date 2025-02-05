@@ -8,7 +8,7 @@
 
 📫 **How to reach me:**  
 [![Email](https://img.shields.io/badge/Email-motshabimohola%40gmail.com-red)](mailto:motshabimohola@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Motshabi%20Mohola-blue)](https://www.linkedin.com/in/motshabi-mohola/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Motshabi%20Mohola-blue)](https://www.linkedin.com/in/hopemohola/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%40HopeMohola-black)](https://github.com/HopeMohola)  
 
 😄 **Pronouns**: She/Her  
