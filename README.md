@@ -21,6 +21,7 @@
 [![Data Analysis(SQL)](https://github.com/HopeMohola/-Maji-Ndogo-Data-Analysis-and-Governance-SQL-)]
 [![Sentiment and Emotion Analysis(Classification)](https://github.com/HopeMohola/Sentiment-Analysis)]
 [![News Classifier(NLP and Classification)](https://github.com/HopeMohola/Group1_classification_project)]
+[![Clinical Records(Heart Failure)(Logistic Regression)](https://github.com/HopeMohola/Clinical-Records-heart-failure-)]
  
 ---
 
