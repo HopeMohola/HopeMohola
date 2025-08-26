@@ -2,9 +2,9 @@
 
 ![GitHub Banner](https://github.com/HopeMohola/Data-Science-Portfolio/blob/main/DALL%C2%B7E%202025-02-03%2018.44.46%20-%20A%20stylish%20GitHub%20portfolio%20banner%20for%20a%20data%20scientist%20named%20Motshabi%20Mohola.%20The%20banner%20should%20have%20a%20girly%20aesthetic%20with%20pastel%20colors%20like%20soft%20pi.webp)  
 
-👀 **I’m interested in Data Science**: Finding patterns in chaos and making data do the heavy lifting.  
-🌱 **I’m currently learning**: How to Prepare Data, SQL, Data Visualization, Python, and Regression.  
-💞️ **I’m looking to collaborate on**: Machine Learning Models—turning tricky problems into smarter solutions, like predicting trends, classifying data, or optimizing processes (without too much trial and error, hopefully!).  
+👀 **I’m interested in Data Science AND Analytics**: Finding patterns in chaos and making data do the heavy lifting.  
+🌱 **I’m good at**: How to Prepare Data using Excel, SQL, Data Visualization using Excel and Power BI, Python and Regression.  
+💞️ **I’m looking to collaborate on**: turning tricky problems into smarter solutions, like predicting trends, classifying data, or optimizing processes (without too much trial and error, hopefully!).  
 
 📫 **How to reach me:**  
 [![Email](https://img.shields.io/badge/Email-motshabimohola%40gmail.com-red)](mailto:motshabimohola@gmail.com)  
@@ -34,12 +34,7 @@
 
 ---
 
-### 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HopeMohola&theme=dracula)  
 
----
-
-### 🚀 Fun Visuals  
 ![Coding GIF](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)  
 
 <!---
