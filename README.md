@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40HopeMohola-black)](https://github.com/HopeMohola)  
 
 😄 **Pronouns**: She/Her  
-⚡ **Fun fact**: I like to think of data as a giant puzzle—except this one occasionally yells “#VALUE!” at me when I mess up. 😄  
+⚡ **Fun fact**: I like to think of data as a giant puzzle except this one occasionally yells “#VALUE!” at me when I mess up. 😄  
 
 ## 🔥 Pinned Repositories  
 
